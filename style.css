@@ -1,0 +1,91 @@
+body {
+    background-image: url('https://cdn5.vectorstock.com/i/1000x1000/13/39/dark-color-geometric-background-texture-vector-21931339.jpg');
+    background-position: center no-repeat;
+    background-size: cover;
+  
+  }
+  .header {
+    margin-top: 75px;
+    border: solid 5px black;
+    background-image: url('https://justbirding.com/wp-content/uploads/2019/01/scarlet-macaw-couple.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 520px;
+  }
+  .intro {
+    margin: 50 30;
+    background-color: beige;
+    background-size: cover;
+    border: solid 10px brown;
+    height: 100;
+    border-radius: 50px;
+  }
+  p {
+    font-size: 20px;
+    text-align: center;
+  }
+  .header h1{
+  
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 40px
+  
+  }
+  .red {
+    background-color: red;
+    font-size: 60px;
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 0 10;
+  }
+  .green {
+    background-color: green;
+    font-size: 60px;
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 0 10;
+  }
+  .blue {
+    background-color: blue;
+    font-size: 60px;
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 0 10;
+  }
+  
+  .rgb {
+    display: inline-block;
+    padding: 0 20 20 15;
+    margin: 50 30;
+    background-color: rgb(255,255,255);
+    border: solid 5px rgb(0,0,0);
+    color: rgb(0,0,0);
+  }
+  .hex {
+    display: inline-block;
+    padding: 0 20 20 15;
+    margin: 50 30;
+    background-color: #FFFFFF;
+    border: solid 5px #000000;
+    color: #000000;
+  }
+  .hsl {
+    display: inline-block;
+    padding: 0 20 20 15;
+    margin: 50 30;
+    background-color: hsl(100,100%,100%);
+    border: solid 5px hsl(0,0%,0%);
+  }
+  th {
+    font-size: 50px;
+  }
+  h2 {
+    text-align: center;
+  }
+  table, th, td{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
